@@ -26,3 +26,12 @@
 - 管理员账号/密码： admin/123456  http://localhost:8099/backend/index.html
 
 - 移动web端：http://localhost:8099/front/index.html， 通过邮箱验证登录。src/main/resources/application.yml中17-19行配置了QQ邮箱的客户端，可以使用，你可以自行修改，修改很简单，自行百度
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/2-1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-026/blob/master/8.png)
